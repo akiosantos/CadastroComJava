@@ -1,0 +1,10 @@
+com\br\var\solutions\security\WebSecurityConfig.class
+com\br\var\solutions\ValidaUsuario.class
+com\br\var\solutions\InformacoesIMC.class
+com\br\var\solutions\ValidaUsuario$ValidaUser.class
+com\br\var\solutions\ApiVarSolutionsApplication.class
+com\br\var\solutions\GenerateToken.class
+com\br\var\solutions\PessoaRequest.class
+com\br\var\solutions\PessoaResponse.class
+com\br\var\solutions\PessoaController.class
+com\br\var\solutions\InformacoesIR.class
